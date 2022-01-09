@@ -1,0 +1,8 @@
+[{arista1: {data: {intf_ip: 172.31.67.41, intf_mask: 30, intf_name: loopback67}, host: arista1.lasthop.io,
+      hostname: arista1, port: '443', transport: https, username: pyclass}, arista2: {
+      data: {intf_ip: 172.31.68.45, intf_mask: 30, intf_name: loopback68}, host: arista2.lasthop.io,
+      hostname: arista2, port: '443', transport: https, username: pyclass}, arista3: {
+      data: {intf_ip: 172.31.69.49, intf_mask: 30, intf_name: loopback69}, host: arista3.lasthop.io,
+      hostname: arista3, port: '443', transport: https, username: pyclass}, arista4: {
+      data: {intf_ip: 172.31.70.53, intf_mask: 30, intf_name: loopback70}, host: arista4.lasthop.io,
+      hostname: arista4, port: '443', transport: https, username: pyclass}}]

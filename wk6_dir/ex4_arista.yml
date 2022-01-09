@@ -1,0 +1,8 @@
+[{data: [interface loopback67, '  ip address 172.31.67.41/30'], host: arista1.lasthop.io,
+    hostname: arista1, port: '443', transport: https, username: pyclass}, {data: [
+      interface loopback68, '  ip address 172.31.68.45/30'], host: arista2.lasthop.io,
+    hostname: arista2, port: '443', transport: https, username: pyclass}, {data: [
+      interface loopback69, '  ip address 172.31.69.49/30'], host: arista3.lasthop.io,
+    hostname: arista3, port: '443', transport: https, username: pyclass}, {data: [
+      interface loopback70, '  ip address 172.31.70.53/30'], host: arista4.lasthop.io,
+    hostname: arista4, port: '443', transport: https, username: pyclass}]
