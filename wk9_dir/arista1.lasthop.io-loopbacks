@@ -1,0 +1,6 @@
+interface loopback102
+  description loopback102 blah blah blah blah blah blah blah blah blah
+!
+interface loopback103
+  description loopback103 blah blah blah blah blah blah blah blah blah
+end
