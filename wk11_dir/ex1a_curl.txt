@@ -1,0 +1,1 @@
+{"circuits":"http://netbox.lasthop.io/api/circuits/","dcim":"http://netbox.lasthop.io/api/dcim/","extras":"http://netbox.lasthop.io/api/extras/","ipam":"http://netbox.lasthop.io/api/ipam/","secrets":"http://netbox.lasthop.io/api/secrets/","tenancy":"http://netbox.lasthop.io/api/tenancy/","virtualization":"http://netbox.lasthop.io/api/virtualization/"}
